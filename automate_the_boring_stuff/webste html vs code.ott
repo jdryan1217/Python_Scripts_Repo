@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>My Blog</title>
+    <link rel="stylesheet" href="./assets/css/style.css" />
+</head>
+
+<body>
+    <!-- navigation -->
+    <header>
+        <h1>
+            <a href="/">
+                JRay's Cyber Blog Party
+            </a>
+        </h1>
+        <a href="mailto:jdryan1217@gmail.com" class="button">Send Email</a>
+        <a href="https://www.linkedin.com/in/joshua-ryan-05487bb9/" class="linkedin">
+        <img src="https://drive.google.com/uc?export=view&id=14GW-oOoadlMxUGs5FvKkgGkrihtkFyUh" alt="LinkedIn logo"
+                height="45px"></a>
+    </header>
+
+    <!-- "About" section -->
+    <section id="about" class="intro">
+        <!--Replace with your own image-->
+        <img src="https://drive.google.com/uc?export=view&id=1_GdgRfyurshc09TyAK7zqruJjIsl7Ntn"
+            alt="Robert Smith picture" height=350px;>
+        <h2 class="section-title">Hi, thanks for visiting!</h2>
+        <p>
+            My name is JRay. My passion for cybersecurity began the day the company I worked for got hacked. Being able to see, first hand, what a ransomware attack can do really opened my eyes to the world of cybersecurity.
+            <br><br>
+            There are many avenues to pursue in this field and having a base knowledge of the attack vectors seems to be more vital than ever. We store all our valuable and personal information on these ever-vulnerable IoT devices. My goal is to get as close as possible to a zero trust policy on my personal and business infrastructure.
+        </p>
+    </section>
+
+
+    <!-- "Blog Posts" section -->
+    <section id="blog-post-collection" class="blog-posts">
+        <h2 class="section-title">Blog Posts</h2>
+        <article class="blog-post">
+            <div class="blog">
+                <h3>My Story</h3>
+                <h4>Pirates and Hackers</h4>
+                <p>I have always had a fascination with what technology can do. From video game cheat codes as a child, to jailbreaking my first iphone and scouring the internet for free music, the fascination for what these devices can do has always been captivating. It took time to understand the severity of pirating and what impact it can have so I stopped soon after I started. The statute of limitations has surely passed since those teenage mistakes. I am strictly a white hat now in the industry, paying the inflated prices of all the techy gear I desire and my passion is for securing systems and making the world a safer place online. Pirating seems to be the thing of the past anyway and now hacking has become the new forefront of anti-business.
+                <br><br>
+                These days hacking is a global marketplace where people can sell exploits, botnets and personal identifiable information. According to cybersecurity ventures, cybercrime is to cost the world $10.5 trillion annually by 2025 and from 2004 to 2017, the global cybersecurity market has grown from $3.5 billion to more than $120 billion. This industry sees no sign of stopping anytime soon and the need for Infosec has never been more dire. This is why I have dedicated my free time to learning everything there is to know about the broad array of technologies surrounding our everyday lives. I decided to start with the cybersecurity bootcamp at the University of Denver and my study for the CompTIA Security+ Certification. Now, all I seem to listen to is cybersecurity podcasts and youtube channels. An obsession with cloud and networking has started and I hope to inspire more to follow suit as we now have battlefronts via keyboards and command lines as well. I hope you join me and get, at least, a basic understanding of phishing and the vulnerabilities we all have with the tools we use now everyday.
+                </p>
+            </div>
+        </article>
+
+
+        <!-- second blog post -->
+        <article class="blog-post">
+            <div class="blog">
+                <h3>How valuable is your password?</h3>
+                <h4>Your life online</h4>
+                <p>
+                    Password literacy is probably the most important thing everyone who has an email must know some basic security around. Securing your password can really save you from hours of recovery, all the way to having to prove that you are who you say you are, or incurring irrefutable damage to bank accounts and business contacts and clients. Some things to keep in mind to avoid disaster include: keeping a long password with special characters, having a password manager and changing your vital passwords regularly, like your email and bank account. We shouldn’t ever use family names, addresses or any information someone can find by looking through our mail in our password. Using a passphrase is a great way to have a strong/long password without entering a jumbled mess of letters and numbers. Length of password is very important so this is a great place to start.
+                <br><br>
+                    Different types of attacks can leave your password vulnerable. Brute force and dictionary attacks are easier than one might think. All passwords can be broken with enough time and knowledge of the surface being attacked. Thus, changing a password often is a great idea to combat the most vulnerable accounts like your email, which is probably set up as your password reset target for most sites and could lead to exposures all across your network. Password managers even have free platforms like Lastpass and Bitwarden that can keep your passwords encrypted and unavailable to most clever hackers in the space. Utilizing this technology to keep your information safe is your best bet to ultimately saving you time and headaches down the line. Better to be safe than sorry in my humble opinion because the cost of a hacker tool kit is going down and the rate of return for these hackers is unfortunately going up.
+                </p>
+            </div>
+        </article>
+    </section>
+</body>
+
+</html>
