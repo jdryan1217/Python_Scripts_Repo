@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "car": {
+      "car_make": "Ford",
+      "car_model": "Fusion",
+      "car_year": 2017
+    },
+    "price": "$22000.00",
+    "total_sales": 34
+  },
+  {
+    "id": 2,
+    "car": {
+      "car_make": "Honda",
+      "car_model": "Civic",
+      "car_year": 2018
+    },
+    "price": "$21000.00",
+    "total_sales": 41
+  },
+  {
+    "id": 3,
+    "car": {
+      "car_make": "Toyota",
+      "car_model": "Camry",
+      "car_year": 2019
+    },
+    "price": "$24000.00",
+    "total_sales": 29
+  },
+  {
+    "id": 4,
+    "car": {
+      "car_make": "Chevrolet",
+      "car_model": "Malibu",
+      "car_year": 2016
+    },
+    "price": "$19500.00",
+    "total_sales": 22
+  },
+  {
+    "id": 5,
+    "car": {
+      "car_make": "Nissan",
+      "car_model": "Altima",
+      "car_year": 2020
+    },
+    "price": "$23000.00",
+    "total_sales": 37
+  }
+]
